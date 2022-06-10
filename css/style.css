@@ -33,7 +33,7 @@ footer ul li a:hover{
     padding-top: 20%;
 }
 .mainb{
-    background-color: black;
+    background-color:#212529;
     margin-top: 0;
 }
 .biografia {
@@ -50,4 +50,21 @@ footer ul li a:hover{
     text-align: justify;
     color: white;
     padding: 10px;
+}
+
+.formulario { 
+    background-image: url(https://scontent.faep8-1.fna.fbcdn.net/v/t39.30808-6/284559014_5233407520030230_9145932391862803581_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=DuViZXFCy64AX9Gaw0s&_nc_ht=scontent.faep8-1.fna&oh=00_AT8YI2qgo2ClJnqVBKUyBfHb_09XMpZn3Cxpk0j7S50HgA&oe=62A955BE);
+    background-position:center;
+    padding: 10% 0 13% 0;
+}
+
+.mb-3 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+.form-control{
+    width: 25%;
+    margin-left: 37%;
 }
