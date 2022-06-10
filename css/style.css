@@ -4,6 +4,15 @@
     padding: 20px;
 }
 
+footer ul li {
+    list-style: none;
+}
+footer ul li a {
+    color: white;
+}
+footer ul li a:hover{
+    color: gray;
+}
 .table {
     margin-bottom: 0;
 }
@@ -22,4 +31,23 @@
 
 .row p {
     padding-top: 20%;
+}
+.mainb{
+    background-color: black;
+    margin-top: 0;
+}
+.biografia {
+   margin :4% 0 0 0
+}
+
+.biografia img { 
+    width: 50vh;
+    margin-top: 35%;
+    margin-left: 5%;
+}
+
+.biografia div{
+    text-align: justify;
+    color: white;
+    padding: 10px;
 }
