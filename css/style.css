@@ -7,3 +7,12 @@
 .table {
     margin-bottom: 0;
 }
+
+.row img {
+    width: 50%;
+    margin-top: 10%;
+}
+
+.row p {
+    padding-top: 20%;
+}
