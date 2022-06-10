@@ -1,4 +1,4 @@
-#footer{
+#footer {
     height: 10vh;
     text-align: center;
     padding: 20px;
@@ -13,6 +13,12 @@
     margin-top: 10%;
     border-radius: 20px;
 }
+
+.row img:hover {
+    filter: opacity(.5);
+    transition: .5s;
+}
+
 
 .row p {
     padding-top: 20%;
